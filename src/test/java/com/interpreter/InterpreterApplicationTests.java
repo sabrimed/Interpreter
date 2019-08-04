@@ -1,4 +1,4 @@
-package com.interpreter.Interpreter;
+package com.interpreter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
